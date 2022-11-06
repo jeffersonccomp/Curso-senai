@@ -53,3 +53,6 @@ Opção 2 - Menu Pessoa Jurídica:
 -     0- Sair                       -
 -------------------------------------
 
+# Principais erros:
+Ao digitar o CNPJ ele terá que ser no seguinte formato: "xxxxxxxx0001xx" ou xx,xxx,xxx/0001-xx;
+Endereço Comercial só irá aceitar as seguintes respostas: 'SIM" ou "S", "NÃO" ou "N";
